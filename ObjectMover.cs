@@ -1,3 +1,6 @@
+//Este script está como componente en los objetos: robot, cajas y pilas.
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
